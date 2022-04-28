@@ -10,5 +10,5 @@ I am excited to see what everyone adds! :)
 
 ***
 
-Licensed under the [GNU General Public License v3.0](LICENSE).
----
+### Licensed under the [GNU General Public License v3.0](LICENSE).
+
