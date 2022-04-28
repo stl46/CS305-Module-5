@@ -10,5 +10,11 @@ I am excited to see what everyone adds! :)
 
 ***
 
+## Contributors:
+
+Ethan Risser
+
+***
+
 ### Licensed under the [GNU General Public License v3.0](LICENSE).
 
