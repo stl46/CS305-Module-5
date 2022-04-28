@@ -8,3 +8,4 @@ What is your favorite game?
 - Apex Legends
 - Genshin Impact
 - Team Fight Tactics
+- Leauge of Legends: Ethan R
