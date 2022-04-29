@@ -9,3 +9,4 @@ What is your favorite game?
 - Genshin Impact
 - Team Fight Tactics
 - Leauge of Legends: Ethan R
+- Lost Ark: Drew H dh2225
