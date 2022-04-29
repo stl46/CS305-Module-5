@@ -20,5 +20,7 @@ Ethan Risser
 
 Adding Lost Ark to the CONTRIBUTING file. Demonstration of a fork and pull request! - Drew H dh2225
 
+***
+
 ### Licensed under the [GNU General Public License v3.0](LICENSE).
 
