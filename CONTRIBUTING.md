@@ -10,3 +10,4 @@ What is your favorite game?
 - Team Fight Tactics
 - Leauge of Legends: Ethan R
 - Lost Ark: Drew H dh2225
+- Bloodborne: Brian Ruiz
